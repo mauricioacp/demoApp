@@ -14,9 +14,7 @@
 	<name>ppmtoll</name>
 	<description>Personal Project Managemente Tool</description>
 
-	<properties>
-		<java.version>11</java.version>
-	</properties>
+	
 
 	<dependencies>
 		<dependency>
